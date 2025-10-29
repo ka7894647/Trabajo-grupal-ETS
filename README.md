@@ -1,1 +1,1 @@
-Primer read me creado en trabajo grupal
+El proyecto consiste en crear un curriculum
